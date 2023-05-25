@@ -1,25 +1,33 @@
 {
   "files": {
-    "main.css": "/jobored-duble/static/css/main.3effd6b2.css",
-    "main.js": "/jobored-duble/static/js/main.de2edda7.js",
-    "static/css/205.32801ff6.chunk.css": "/jobored-duble/static/css/205.32801ff6.chunk.css",
-    "static/js/205.555a3c85.chunk.js": "/jobored-duble/static/js/205.555a3c85.chunk.js",
-    "static/css/139.0adbc03e.chunk.css": "/jobored-duble/static/css/139.0adbc03e.chunk.css",
-    "static/js/139.ccf15641.chunk.js": "/jobored-duble/static/js/139.ccf15641.chunk.js",
-    "static/js/377.a896afed.chunk.js": "/jobored-duble/static/js/377.a896afed.chunk.js",
+    "main.css": "/jobored-duble/static/css/main.526ed5a2.css",
+    "main.js": "/jobored-duble/static/js/main.802a70c0.js",
+    "static/css/302.e13e7728.chunk.css": "/jobored-duble/static/css/302.e13e7728.chunk.css",
+    "static/js/302.158dcdb0.chunk.js": "/jobored-duble/static/js/302.158dcdb0.chunk.js",
+    "static/css/171.ac8c651a.chunk.css": "/jobored-duble/static/css/171.ac8c651a.chunk.css",
+    "static/js/171.65e3a97a.chunk.js": "/jobored-duble/static/js/171.65e3a97a.chunk.js",
+    "static/css/557.29feb10f.chunk.css": "/jobored-duble/static/css/557.29feb10f.chunk.css",
+    "static/js/557.43bc9fa6.chunk.js": "/jobored-duble/static/js/557.43bc9fa6.chunk.js",
+    "static/css/661.68800c8b.chunk.css": "/jobored-duble/static/css/661.68800c8b.chunk.css",
+    "static/js/661.d01a47d4.chunk.js": "/jobored-duble/static/js/661.d01a47d4.chunk.js",
     "static/js/776.d44aec60.chunk.js": "/jobored-duble/static/js/776.d44aec60.chunk.js",
+    "static/js/184.bde0bf2c.chunk.js": "/jobored-duble/static/js/184.bde0bf2c.chunk.js",
     "index.html": "/jobored-duble/index.html",
-    "main.3effd6b2.css.map": "/jobored-duble/static/css/main.3effd6b2.css.map",
-    "main.de2edda7.js.map": "/jobored-duble/static/js/main.de2edda7.js.map",
-    "205.32801ff6.chunk.css.map": "/jobored-duble/static/css/205.32801ff6.chunk.css.map",
-    "205.555a3c85.chunk.js.map": "/jobored-duble/static/js/205.555a3c85.chunk.js.map",
-    "139.0adbc03e.chunk.css.map": "/jobored-duble/static/css/139.0adbc03e.chunk.css.map",
-    "139.ccf15641.chunk.js.map": "/jobored-duble/static/js/139.ccf15641.chunk.js.map",
-    "377.a896afed.chunk.js.map": "/jobored-duble/static/js/377.a896afed.chunk.js.map",
-    "776.d44aec60.chunk.js.map": "/jobored-duble/static/js/776.d44aec60.chunk.js.map"
+    "main.526ed5a2.css.map": "/jobored-duble/static/css/main.526ed5a2.css.map",
+    "main.802a70c0.js.map": "/jobored-duble/static/js/main.802a70c0.js.map",
+    "302.e13e7728.chunk.css.map": "/jobored-duble/static/css/302.e13e7728.chunk.css.map",
+    "302.158dcdb0.chunk.js.map": "/jobored-duble/static/js/302.158dcdb0.chunk.js.map",
+    "171.ac8c651a.chunk.css.map": "/jobored-duble/static/css/171.ac8c651a.chunk.css.map",
+    "171.65e3a97a.chunk.js.map": "/jobored-duble/static/js/171.65e3a97a.chunk.js.map",
+    "557.29feb10f.chunk.css.map": "/jobored-duble/static/css/557.29feb10f.chunk.css.map",
+    "557.43bc9fa6.chunk.js.map": "/jobored-duble/static/js/557.43bc9fa6.chunk.js.map",
+    "661.68800c8b.chunk.css.map": "/jobored-duble/static/css/661.68800c8b.chunk.css.map",
+    "661.d01a47d4.chunk.js.map": "/jobored-duble/static/js/661.d01a47d4.chunk.js.map",
+    "776.d44aec60.chunk.js.map": "/jobored-duble/static/js/776.d44aec60.chunk.js.map",
+    "184.bde0bf2c.chunk.js.map": "/jobored-duble/static/js/184.bde0bf2c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3effd6b2.css",
-    "static/js/main.de2edda7.js"
+    "static/css/main.526ed5a2.css",
+    "static/js/main.802a70c0.js"
   ]
 }
