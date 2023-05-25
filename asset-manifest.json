@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/jobored-duble/static/css/main.526ed5a2.css",
+    "main.js": "/jobored-duble/static/js/main.6ac16ac0.js",
+    "static/css/302.e13e7728.chunk.css": "/jobored-duble/static/css/302.e13e7728.chunk.css",
+    "static/js/302.3b09ad42.chunk.js": "/jobored-duble/static/js/302.3b09ad42.chunk.js",
+    "static/css/171.ac8c651a.chunk.css": "/jobored-duble/static/css/171.ac8c651a.chunk.css",
+    "static/js/171.f9c30625.chunk.js": "/jobored-duble/static/js/171.f9c30625.chunk.js",
+    "static/css/557.29feb10f.chunk.css": "/jobored-duble/static/css/557.29feb10f.chunk.css",
+    "static/js/557.15423283.chunk.js": "/jobored-duble/static/js/557.15423283.chunk.js",
+    "static/css/661.68800c8b.chunk.css": "/jobored-duble/static/css/661.68800c8b.chunk.css",
+    "static/js/661.d01a47d4.chunk.js": "/jobored-duble/static/js/661.d01a47d4.chunk.js",
+    "static/js/776.d44aec60.chunk.js": "/jobored-duble/static/js/776.d44aec60.chunk.js",
+    "static/js/184.bde0bf2c.chunk.js": "/jobored-duble/static/js/184.bde0bf2c.chunk.js",
+    "index.html": "/jobored-duble/index.html",
+    "main.526ed5a2.css.map": "/jobored-duble/static/css/main.526ed5a2.css.map",
+    "main.6ac16ac0.js.map": "/jobored-duble/static/js/main.6ac16ac0.js.map",
+    "302.e13e7728.chunk.css.map": "/jobored-duble/static/css/302.e13e7728.chunk.css.map",
+    "302.3b09ad42.chunk.js.map": "/jobored-duble/static/js/302.3b09ad42.chunk.js.map",
+    "171.ac8c651a.chunk.css.map": "/jobored-duble/static/css/171.ac8c651a.chunk.css.map",
+    "171.f9c30625.chunk.js.map": "/jobored-duble/static/js/171.f9c30625.chunk.js.map",
+    "557.29feb10f.chunk.css.map": "/jobored-duble/static/css/557.29feb10f.chunk.css.map",
+    "557.15423283.chunk.js.map": "/jobored-duble/static/js/557.15423283.chunk.js.map",
+    "661.68800c8b.chunk.css.map": "/jobored-duble/static/css/661.68800c8b.chunk.css.map",
+    "661.d01a47d4.chunk.js.map": "/jobored-duble/static/js/661.d01a47d4.chunk.js.map",
+    "776.d44aec60.chunk.js.map": "/jobored-duble/static/js/776.d44aec60.chunk.js.map",
+    "184.bde0bf2c.chunk.js.map": "/jobored-duble/static/js/184.bde0bf2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.526ed5a2.css",
+    "static/js/main.6ac16ac0.js"
+  ]
+}
